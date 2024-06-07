@@ -1,0 +1,6 @@
+dist
+node_modules
+notes_db
+tsconfig
+restclient
+notes2.sql
